@@ -5,7 +5,7 @@ A clean and responsive calculator built with HTML, CSS, and JavaScript, inspired
 Clone or download the project:
 
 Code
-git clone https://github.com/your-username/att-calculator.git
+git clone https://github.com/sandeep-saw1/Calculator.git
 Open index.html in your browser.
 
 Start calculating!
