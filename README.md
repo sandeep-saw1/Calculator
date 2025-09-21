@@ -15,4 +15,4 @@ Click buttons to enter numbers and operations.
 Use C to clear, ← to delete last digit, and = to get results.
 
 🌐 Live Demo
-👉 Try it here
+👉 Try it here (https://sandeep-saw1.github.io/Calculator/)
